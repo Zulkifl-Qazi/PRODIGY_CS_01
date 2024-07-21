@@ -1,0 +1,17 @@
+└─$ python Task1.py  
+Caesar Cipher Program
+1. Encrypt a message
+2. Decrypt a message
+3. Quit
+Enter your choice: 1
+Enter the message to encrypt: Zulkifl Qazi
+Enter the shift value: 22
+Encrypted message: Vqhgebh Mwve
+Caesar Cipher Program
+1. Encrypt a message
+2. Decrypt a message
+3. Quit
+Enter your choice: 2
+Enter the message to decrypt: Vqhgebh Mwve
+Enter the shift value: 22
+Decrypted message: Zulkifl Qazi
